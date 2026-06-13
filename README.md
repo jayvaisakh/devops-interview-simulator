@@ -37,12 +37,6 @@ tree
 ├── support.js
 ├── uploads
 │   └── akumen logo-06.png
-└── screenshots
-    ├── 01-project-structure.png
-    ├── 02-docker-build-success.png
-    ├── 03-docker-images.png
-    ├── 04-running-container.png
-    └── 05-website-output.png
 ```
 
 ![Project Structure](screenshots/01-project-structure.png)
